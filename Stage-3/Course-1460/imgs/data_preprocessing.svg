@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 data_handle_steps.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="6.82004in" height="1.70194in"
+		viewBox="0 0 491.043 122.539" xml:space="preserve" color-interpolation-filters="sRGB" class="st7">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#c6e993;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5}
+		.st2 {fill:#000000;font-family:宋体;font-size:1.16666em;font-weight:bold}
+		.st3 {font-size:1em}
+		.st4 {font-family:Franklin Gothic Book;font-size:1em}
+		.st5 {marker-end:url(#mrkr13-24);stroke:#146093;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.25}
+		.st6 {fill:#146093;fill-opacity:1;stroke:#146093;stroke-opacity:1;stroke-width:0.47169811320755}
+		.st7 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend13">
+			<path d="M 3 1 L 0 0 L 3 -1 L 3 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr13-24" class="st6" v:arrowType="13" v:arrowSize="2" v:setback="6.36" refX="-6.36" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend13" transform="scale(-2.12,-2.12) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="msvThemeOrder" v:val="VT0(0):26"/>
+		</v:userDefs>
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="连接线" v:index="0"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(18.7498,-18.75)">
+			<title>圆角矩形</title>
+			<desc>数据增强图像的平移、剪切、旋转</desc>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="80.0197" width="113.39" height="85.0394"/>
+			<path d="M11.34 122.54 L102.05 122.54 A11.3384 11.3384 -180 0 0 113.39 111.2 L113.39 48.84 A11.3384 11.3384 -180 0 0
+						 102.05 37.5 L11.34 37.5 A11.3384 11.3384 -180 0 0 0 48.84 L0 111.2 A11.3384 11.3384 -180 0 0 11.34 122.54
+						 Z" class="st1"/>
+			<text x="7.5" y="66.81" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>数据增强：图像<tspan x="7.5"
+						dy="1.2em" class="st3">的平移</tspan>、剪切、<tspan x="42.64" dy="1.265em" class="st3">旋转</tspan></text>		</g>
+		<g id="shape2-6" v:mID="2" v:groupContext="shape" transform="translate(188.829,-18.75)">
+			<title>圆角矩形.2</title>
+			<desc>模型 input 和 target 的制作</desc>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="80.0197" width="113.39" height="85.0394"/>
+			<path d="M11.34 122.54 L102.05 122.54 A11.3384 11.3384 -180 0 0 113.39 111.2 L113.39 48.84 A11.3384 11.3384 -180 0 0
+						 102.05 37.5 L11.34 37.5 A11.3384 11.3384 -180 0 0 0 48.84 L0 111.2 A11.3384 11.3384 -180 0 0 11.34 122.54
+						 Z" class="st1"/>
+			<text x="17" y="75.51" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>模型<tspan class="st4"> </tspan><tspan
+						class="st4">input </tspan>和<tspan class="st4"> </tspan><tspan x="16.44" dy="1.287em" class="st4">target </tspan>的制作</text>		</g>
+		<g id="shape3-13" v:mID="3" v:groupContext="shape" transform="translate(358.907,-18.75)">
+			<title>圆角矩形.3</title>
+			<desc>构造 batch 数据集</desc>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="80.0197" width="113.39" height="85.0394"/>
+			<path d="M11.34 122.54 L102.05 122.54 A11.3384 11.3384 -180 0 0 113.39 111.2 L113.39 48.84 A11.3384 11.3384 -180 0 0
+						 102.05 37.5 L11.34 37.5 A11.3384 11.3384 -180 0 0 0 48.84 L0 111.2 A11.3384 11.3384 -180 0 0 11.34 122.54
+						 Z" class="st1"/>
+			<text x="8.4" y="75.51" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>构造<tspan class="st4"> </tspan><tspan
+						class="st4">batch </tspan>数据<tspan x="49.67" dy="1.287em" class="st3">集</tspan></text>		</g>
+		<g id="shape4-19" v:mID="4" v:groupContext="shape" v:layerMember="0" transform="translate(132.136,-54.1831)">
+			<title>动态连接线</title>
+			<path d="M0 115.45 L42.38 115.45" class="st5"/>
+		</g>
+		<g id="shape5-25" v:mID="5" v:groupContext="shape" v:layerMember="0" transform="translate(302.214,-54.1831)">
+			<title>动态连接线.5</title>
+			<path d="M0 115.45 L42.38 115.45" class="st5"/>
+		</g>
+	</g>
+</svg>
