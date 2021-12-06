@@ -179,3 +179,23 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,python,jupyternotebooks
+
+# Created by https://www.toptal.com/developers/gitignore/api/data
+# Edit at https://www.toptal.com/developers/gitignore?templates=data
+
+### Data ###
+*.csv
+*.dat
+*.efx
+*.gbr
+*.key
+*.pps
+*.ppt
+*.pptx
+*.sdf
+*.tax2010
+*.vcf
+*.xml
+*.zip
+
+# End of https://www.toptal.com/developers/gitignore/api/data
